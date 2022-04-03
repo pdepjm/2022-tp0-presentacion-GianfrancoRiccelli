@@ -2,6 +2,6 @@
 
 ## Estudiante: Gianfranco Riccelli
 
-![mi foto](FotoPdP.jpg)
+![mi foto](FotoPdP.jpeg)
 
 # Mi gusto de helado favorito es: Banana Split
